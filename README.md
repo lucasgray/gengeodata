@@ -1,5 +1,8 @@
  ## Getting Started
 
+## Prerequisites
+Node 18.x or higher
+
 ### Install
 
 Run `npm install` to install all dependencies.
