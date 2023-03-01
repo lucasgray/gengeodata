@@ -1,6 +1,7 @@
  ## Getting Started
 
-## Prerequisites
+This script can be used to generate test data.
+### Prerequisites
 Node 18.x or higher
 
 ### Install
